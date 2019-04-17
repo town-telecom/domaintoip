@@ -1,5 +1,4 @@
-const domainList = [
+const domainList = [];
 
-];
 
 module.exports = domainList;
